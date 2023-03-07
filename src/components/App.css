@@ -1,0 +1,25 @@
+.app-header{
+   font-size: 25px;
+   font-weight: 700;
+   font-style: Arial;
+   color:brown;
+}
+
+header{
+   background-color: antiquewhite;
+   margin:2px ;
+   text-align: center;
+}
+
+.app-addItems{
+    margin-left: 40%;
+   
+
+}
+
+#btn-Add{
+   color: brown;
+   border-width: 3px;
+   
+   
+}
